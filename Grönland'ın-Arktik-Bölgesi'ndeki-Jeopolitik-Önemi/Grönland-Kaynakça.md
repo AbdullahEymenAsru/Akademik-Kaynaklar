@@ -28,7 +28,7 @@ Bu sayfada, "Grönland ve Arktik Jeopolitiği" başlıklı videonun araştırma 
 * **EJIL: Talk! (J. Hartmann):** [Transition Minerals: A Cautionary Tale from Greenland](https://www.ejiltalk.org/transition-minerals-a-cautionary-tale-from-greenland/) *(Yayın: 29 Ocak 2024)*
 * **Tanbreez Mining:** [Project Home Operations](https://tanbreez.com/) *(Erişim: 16 Şubat 2026)*
 
-## 📰 Küresel Analizler & Güncel Gelişmeler
+## 📰 Küresel Analizler & Güncel (Resmi) Gelişmeler
 * **High North News (M. Humpert):** [Russia Upgrades Key Arctic Military Base With Expanded Runway](https://en.highnorthnews.com/politics/russia-upgrades-key-arctic-military-base-with-expanded-runway/188952) *(Yayın: 14 Ağustos 2024)*
 * **Ukrhaber:** [Graham, Ukrayna’ya “Tomahawk” füzelerinin gönderilmesi çağrısında bulundu](https://www.ukrhaber.com/blog/graham-ukraynaya-tomahawk-fuzelerinin-gonderilmesi-cagrisinda-bulundu-abdnin-putin-uzerindeki-baskisi-ise-yaramiyor/) *(Yayın: 04 Şubat 2026)*
 * **China State Council:** [Full text: China’s Arctic Policy White Paper](https://english.www.gov.cn/archive/white_paper/2018/01/26/content_281476026660336.htm) *(Erişim: 10 Şubat 2026)*
