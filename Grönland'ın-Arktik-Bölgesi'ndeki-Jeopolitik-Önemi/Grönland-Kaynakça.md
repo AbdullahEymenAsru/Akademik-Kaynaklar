@@ -29,9 +29,7 @@ Bu sayfada, "Grönland ve Arktik Jeopolitiği" başlıklı videonun araştırma 
 * **Tanbreez Mining:** [Project Home Operations](https://tanbreez.com/) *(Erişim: 16 Şubat 2026)*
 
 ## 📰 Küresel Analizler & Güncel Gelişmeler
-* **Anadolu Ajansı:** [Almanya, Avrupa’nın koruyucusu mu olacak?](https://www.aa.com.tr/tr/analiz/almanya-avrupanin-koruyucusu-mu-olacak/3799996) *(Erişim: 19 Ocak 2026)*
 * **High North News (M. Humpert):** [Russia Upgrades Key Arctic Military Base With Expanded Runway](https://en.highnorthnews.com/politics/russia-upgrades-key-arctic-military-base-with-expanded-runway/188952) *(Yayın: 14 Ağustos 2024)*
-* **Institute of New Europe:** [What Lies Ahead for Russia in 2025-2026?](https://ine.org.pl/en/what-lies-ahead-for-russia-in-2025/) *(Yayın: 02 Şubat 2025 / Erişim: 18 Şubat 2026)*
 * **Ukrhaber:** [Graham, Ukrayna’ya “Tomahawk” füzelerinin gönderilmesi çağrısında bulundu](https://www.ukrhaber.com/blog/graham-ukraynaya-tomahawk-fuzelerinin-gonderilmesi-cagrisinda-bulundu-abdnin-putin-uzerindeki-baskisi-ise-yaramiyor/) *(Yayın: 04 Şubat 2026)*
 * **China State Council:** [Full text: China’s Arctic Policy White Paper](https://english.www.gov.cn/archive/white_paper/2018/01/26/content_281476026660336.htm) *(Erişim: 10 Şubat 2026)*
 
