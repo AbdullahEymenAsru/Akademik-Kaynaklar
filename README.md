@@ -4,7 +4,7 @@ Bu depo, YouTube kanalımda yayınladığım jeopolitik analizler, açık kaynak
 
 ## 📁 Videolar ve Kaynak Dizinleri
 
-* [Video 01: Grönland'ın Arktik Bölgesi'ndeki Jeopolitik Önemi](./01-Grönland'ınArktikBölgesi'ndekiJeopolitikÖnemi) — (Uranyum Yasası, Nükleer Strateji ve Kaynak Güvenliği Analizi)
+* [Video 01: Grönland'ın Arktik Bölgesi'ndeki Jeopolitik Önemi](./01-Grönland'ın-Arktik-Bölgesi'ndeki-Jeopolitik-Önemi) — (Uranyum Yasası, Nükleer Strateji ve Kaynak Güvenliği Analizi)
 * [Video 02: Küresel Boğazlar ve Rotalar Savaşı](./02-) — *(Çok Yakında)*
 
 ---
