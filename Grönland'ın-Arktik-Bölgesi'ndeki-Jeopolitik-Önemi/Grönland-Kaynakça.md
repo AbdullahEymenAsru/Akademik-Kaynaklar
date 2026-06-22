@@ -3,7 +3,7 @@
 Bu sayfada, "Grönland ve Arktik Jeopolitiği" başlıklı videonun araştırma sürecinde yararlanılan tüm akademik yayınlar, uluslararası strateji kuruluşu raporları, resmi arşiv belgeleri ve güncel analizler erişim tarihleriyle birlikte listelenmektedir.
 
 ## 🏛️ Uluslararası Sözleşmeler & Resmi Arşivler
-* 1 **China State Council:** [Full text: China's Arctic Policy White Paper](https://english.www.gov.cn/archive/white_paper/2018/01/26/content_281476026660336.htm) *(Erişim: 10 Şubat 2026)*
+*1  **China State Council:** [Full text: China's Arctic Policy White Paper](https://english.www.gov.cn/archive/white_paper/2018/01/26/content_281476026660336.htm) *(Erişim: 10 Şubat 2026)*
 * **Government of Greenland:** [Act No. 20 on the Prohibition of Preliminary Investigation, Exploration and Exploitation of Uranium](https://govmin.gl/wp-content/uploads/2022/01/Uranlov-ENG.pdf) *(Erişim: 19 Şubat 2026)*
 * **United Nations:** [United Nations Charter (Full Text)](https://www.un.org/en/about-us/un-charter/full-text) *(Erişim: 03 Şubat 2026)*
 * **UN Treaty Collection:** [Vienna Convention on the Law of Treaties (1969)](https://treaties.un.org/pages/ViewDetailsIII.aspx?src=TREATY&mtdsg_no=XXIII-1&chapter=23&Temp=mtdsg3&clang=_en) *(Erişim: 20 Ocak 2026)*
