@@ -3,11 +3,13 @@
 Bu sayfada, "Grönland ve Arktik Jeopolitiği" başlıklı videonun araştırma sürecinde yararlanılan tüm akademik yayınlar, uluslararası strateji kuruluşu raporları, resmi arşiv belgeleri ve güncel analizler erişim tarihleriyle birlikte listelenmektedir.
 
 ## 🏛️ Uluslararası Sözleşmeler & Resmi Arşivler
+* **China State Council:** [Full text: China's Arctic Policy White Paper](https://english.www.gov.cn/archive/white_paper/2018/01/26/content_281476026660336.htm) *(Erişim: 10 Şubat 2026)*
+* **Government of Greenland:** [Act No. 20 on the Prohibition of Preliminary Investigation, Exploration and Exploitation of Uranium](https://govmin.gl/wp-content/uploads/2022/01/Uranlov-ENG.pdf) *(Erişim: 19 Şubat 2026)*
 * **United Nations:** [United Nations Charter (Full Text)](https://www.un.org/en/about-us/un-charter/full-text) *(Erişim: 03 Şubat 2026)*
 * **UN Treaty Collection:** [Vienna Convention on the Law of Treaties (1969)](https://treaties.un.org/pages/ViewDetailsIII.aspx?src=TREATY&mtdsg_no=XXIII-1&chapter=23&Temp=mtdsg3&clang=_en) *(Erişim: 20 Ocak 2026)*
 * **US Department of State:** [Vienna Convention on the Law of Treaties FAQ](https://2009-2017.state.gov/s/l/treaty/faqs/70139.htm) *(Erişim: 20 Ocak 2026)*
-* **Vienna Convention on the Law of Treaties (1969)** *(Belge — tarih yok)*
-* **State Treaty for the Re-Establishment of an Independent and Democratic Austria (Vienna, 15 May 1955)** *(Yayın: 1955)*
+* **Vienna Convention on the Law of Treaties (1969)** [VCLT](https://legal.un.org/ilc/texts/instruments/english/conventions/1_1_1969.pdf)  *(Erişim: 20 Ocak 2026)*
+* **State Treaty for the Re-Establishment of an Independent and Democratic Austria (Vienna, 15 May 1955)** [Vienna](http://www.cvce.eu/obj/state_treaty_for_the_re_establishment_of_an_independent_and_democratic_austria_vienna_15_may_1955-en-5c586461-7528-4a74-92c3-d3eba73c2d7d.html)*(Yayın: 1955)*
 * **SEC EDGAR Archives:** [Critical Minerals & Energy Transition Filings (CIK: 1951089)](https://www.sec.gov/Archives/edgar/data/1951089/000121390026006243/ea0273626-6k_critical.htm) *(Erişim: 16 Şubat 2026)*
 * **SEC EDGAR Archives:** [EDGAR Entity Landing Page](https://www.sec.gov/edgar/browse/?CIK=1951089) *(Erişim: 16 Şubat 2026)*
 
@@ -30,6 +32,7 @@ Bu sayfada, "Grönland ve Arktik Jeopolitiği" başlıklı videonun araştırma 
 
 ## 🏗️ Maden Projeleri, Sektörel & Hukuki Gelişmeler
 * **Energy Transition Minerals (ETM):** [Kvanefjeld Project Overview](https://etransmin.com/kvanefjeld-project/) *(Erişim: 16 Şubat 2026)*
+* **Energy Transition Minerals (ETM):** [ASX Announcement: Commencement of Greenland Infrastructure Proceedings](https://wcsecure.weblink.com.au/pdf/GGG/02011545.pdf) *(Erişim: 22 Haziran 2026)*
 * **Energy Transition Minerals (ETM):** [ASX:ETM Share Price Data](https://www.marketindex.com.au/asx/etm) *(Erişim: 16 Şubat 2026)*
 * **Energy Transition Minerals (ETM):** [Annual Report to Shareholders](https://investorhub.etransmin.com/announcements/6889208) *(Erişim: 16 Şubat 2026)*
 * **Energy Transition Minerals (ETM):** [Update on Legal Proceedings (ASX:ETM)](https://www.listcorp.com/asx/etm/energy-transition-minerals-ltd/news/update-on-legal-proceedings-3274172.html) *(Yayın: 10 Kasım 2025)*
@@ -37,11 +40,10 @@ Bu sayfada, "Grönland ve Arktik Jeopolitiği" başlıklı videonun araştırma 
 * **EJIL: Talk! (J. Hartmann):** [Transition Minerals: A Cautionary Tale from Greenland](https://www.ejiltalk.org/transition-minerals-a-cautionary-tale-from-greenland/) *(Yayın: 29 Ocak 2024)*
 * **Tanbreez Mining:** [Project Home Operations](https://tanbreez.com/) *(Erişim: 16 Şubat 2026)*
 
-## 📰 Küresel Analizler & Güncel (Resmi) Gelişmeler
+## 📰 Küresel Analizler & Güncel Gelişmeler
 * **High North News (M. Humpert):** [Russia Upgrades Key Arctic Military Base With Expanded Runway](https://en.highnorthnews.com/politics/russia-upgrades-key-arctic-military-base-with-expanded-runway/188952) *(Yayın: 14 Ağustos 2024)*
 * **NGA Tearline:** [Russia's Arctic Eyes: Geospatial Analysis of Russian Air Surveillance Radar Systems in the Arctic](https://www.tearline.mil/public_page/russias-arctic-eyes-geospatial-analysis-of-russian-air-surveillance-radar-systems-in-the-arctic#article) *(Erişim: 21 Haziran 2026)*
 * **Ukrhaber:** [Graham, Ukrayna'ya "Tomahawk" füzelerinin gönderilmesi çağrısında bulundu](https://www.ukrhaber.com/blog/graham-ukraynaya-tomahawk-fuzelerinin-gonderilmesi-cagrisinda-bulundu-abdnin-putin-uzerindeki-baskisi-ise-yaramiyor/) *(Yayın: 04 Şubat 2026)*
-* **China State Council:** [Full text: China's Arctic Policy White Paper](https://english.www.gov.cn/archive/white_paper/2018/01/26/content_281476026660336.htm) *(Erişim: 10 Şubat 2026)*
 
 ---
 *Bu kaynakça listesi, Abdullah Eymen Asru YouTube kanalındaki ilgili videonun şeffaflık ve akademik doğruluk ilkeleri gereği açık kaynaklı olarak paylaşılmıştır.*
